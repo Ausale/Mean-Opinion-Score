@@ -17,5 +17,6 @@ Any advice on how to improve the code would be very welcome.
 
 # How to run the script:
 
-"python mos.py <ip address> <ping count>"
+in CMD/terminal, run:
+python mos.py <ip address> <ping count>
   
